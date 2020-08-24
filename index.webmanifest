@@ -1,0 +1,18 @@
+{
+  "name": "Muhammad Abdullah Iqbal",
+  "short_name": "Muhammad Abdullah Iqbal",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu00d506a3d2257a2768c489c414d17fe9_1045774_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu00d506a3d2257a2768c489c414d17fe9_1045774_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
