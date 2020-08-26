@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Muhammad Abdullah Iqbal</title>
-    <link>/project/</link>
+    <title>Research | Muhammad Abdullah Iqbal</title>
+    <link>/Research/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Muhammad Abdullah Iqbal © 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu00d506a3d2257a2768c489c414d17fe9_1045774_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Research</title>
+      <link>/research/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Synthesis Techniques</title>
+      <link>/research/synthesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>/research/synthesis/</guid>
       <description></description>
     </item>
     

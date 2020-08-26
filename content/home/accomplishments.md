@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 38  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards and Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Dr. Rashad Degree College, Pakistan Oil Fields Ltd"
+  organization_url = ""
+  title = "Best Performance Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "#gallery-gallery-2"
+  date_start = "2018-03-10"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Higher Education Commission (HEC) Pakistan"
+  organization_url = "https://www.hec.edu.pk"
+  title = "Graduate Indigenous Scholarship Program"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-01"
+  date_end = "2017-08-31"
+  description = "MS Graduate Fellowship"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "University of Gujrat (UOG)"
+  organization_url = "https://www.uog.edu.pk"
+  title = "Most Dynamic Student of the Year"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2013-06-11"
+  date_end = ""
   description = ""
 
 +++

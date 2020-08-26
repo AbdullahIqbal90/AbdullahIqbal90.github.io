@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Visiting Teaching Faculty"
+  company = "National University of Sciences and Technology"
+  company_url = "www.nust.edu.pk"
+  location = "Islamabad, Pakistan"
+  date_start = "2016-09-09"
+  date_end = "2017-06-11"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Undegraduate Physics Lab
+  * Demonstrating experiments
+  * Assesing and grading the reports
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lecturer Physics"
+  company = "Dr. Rashad Degree College, Pakistan Oil Fields Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Attock, Pakistan"
+  date_start = "2017-09-23"
+  date_end = "2018-09-06"
+  description = """
+  Responsibilities include:
+  
+  * Heat and Thermodynamics (BS) 
+  * Basic Electronics (BS)
+  * High School Physics and Lab (K12)
+  """
+[[experience]]
+  title = "Lecturer Physics (Visiting)"
+  company = "Federal Urdu University of Arts Sciences and Technology"
+  company_url = ""
+  location = "Islamabad, Pakistan"
+  date_start = "2019-03-01"
+  date_end = "2019-07-31"
+  description = """
+  Responsibilities include:
+  
+  * Basic Electronics Lab (BS-6th) 
+  * Characterization Techniques Lab (BS-8th)
+  """
+   
 +++
