@@ -1,13 +1,20 @@
 ---
-title: "An example journal article"
+title: "Ti3C2-MXene/Bismuth Ferrite Nanohybrids for Efficient Degradation of Organic Dyes and Colorless Pollutants"
 authors:
-- admin
-- Robert Ford
+- M. Abdullah Iqbal
+- Ayesha Tariq
+- Ayesha Zaheer
+- Sundus Gul
+- S. Irfan Ali
+- Muhammad Z. Iqbal*
+- Deji Akinwande
+- and Syed Rizwan*
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- ""
+- ""
+date: "2019-11-25T00:00:00Z"
+doi: "https://doi.org/10.1021/acsomega.9b02359"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "**American Chemical Society**, *Omega*"
+publication_short: "ACS Omega"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The current environmental and potable water crisis requires technological advancement to tackle the issues caused by different organic pollutants. Herein, we report the degradation of organic pollutants such as Congo Red and acetophenone from aqueous media using visible light irradiation. To harvest the solar energy for photocatalysis, we fabricated a nanohybrid system composed of bismuth ferrite nanoparticles with two-dimensional (2D) MXene sheets, namely, the BiFeO3 (BFO)/Ti3C2 (MXene) nanohybrid, for enhanced photocatalytic activity. The hybrid BFO/MXene is fabricated using a simple and low-cost double-solvent solvothermal method. The SEM and TEM images showed that the BFO nanoparticles are attached onto the surface of 2D MXene sheets. The photocatalytic degradation achieved by the hybrid is found to be 100% in 42 min for the organic dye (Congo Red) and 100% for the colorless aqueous pollutant (acetophenone) in 150 min. The BFO/MXene hybrid system exhibited a large surface area of 147 m2 g–1 measured via the Brunauer–Emmett–Teller sorption–desorption technique, which is found to be the largest among all BFO nanoparticles and derivatives. The photoluminescence spectra indicate a low electron–hole recombination rate. Fast and efficient degradation of organic molecules is caused by two factors, larger surface area and lower electron–hole recombination rate, which makes the BFO/MXene nanohybrid a highly efficient photocatalyst and a promising candidate for many future applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b02359
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Graphical Abstract: [**ACS Omega 2019, 4, 24, 20530-20539**](https://pubs.acs.org/doi/10.1021/acsomega.9b02359)'
   focal_point: ""
   preview_only: false
 
@@ -62,15 +69,8 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
